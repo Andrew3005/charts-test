@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@amcharts/amcharts4": "^4.9.19",
+    "@amcharts/amcharts4": "^4.10.28",
     "@angular/animations": "~8.2.0",
     "@angular/common": "~8.2.0",
     "@angular/compiler": "~8.2.0",
@@ -25,7 +25,7 @@
     "apexcharts": "^3.19.0",
     "canvasjs": "^1.8.3",
     "chart.js": "^2.9.3",
-    "d3": "^5.16.0",
+    "d3": "^7.6.1",
     "express": "^4.17.1",
     "highcharts": "^8.0.4",
     "path": "^0.12.7",
